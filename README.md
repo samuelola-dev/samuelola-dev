@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>KOVA — a smart bookkeeping and VAT compliance platform helping Nigerian small businesses manage sales, inventory, and taxes efficiently.<br><br>👯 I’m looking to collaborate on<br>Backend engineering, startup products, and impactful tech solutions solving real-world problems.<br><br>🤝 I’m looking for help with<br>Backend architecture, scalable system design, cloud infrastructure, and building production-ready applications.<br><br>🌱 I’m currently learning<br>Backend engineering, databases, distributed systems, system design, and cloud technologies.<br><br>💬 Ask me about<br>Node.js, Express, REST APIs, backend development, databases, and startup building.<br><br>⚡ Fun fact<br>I’m a backend developer who also enjoys frontend, so I naturally think like a full-stack builder. I love solving problems, learning fast, and making sure everyone on my team grows together.<br>
+
+Hey there, I'm Samuel Ola 👋
+
+I'm a web developer currently focused on backend engineering and gradually growing into full-stack development.
+
+I’m a Computer Engineering student at OAU, Nigeria, and I enjoy building scalable systems, solving problems, and working with great teams.
+
+Currently building KOVA — a smart bookkeeping and VAT compliance platform helping Nigerian businesses manage sales, inventory, and taxes efficiently.
+
+Fun to work with, always learning, and open to collaborations 🚀
 
 
 ## 🌐 Socials:
