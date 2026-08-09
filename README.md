@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**samuelola-dev/samuelola-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Samuel Ola 👋
 
-Here are some ideas to get you started:
+I'm a web developer focused on backend engineering and gradually growing into full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable systems, solving real-world problems, and turning ideas into practical products.
+
+Currently building **KOVA** — a smart bookkeeping and VAT compliance platform helping Nigerian businesses manage sales, inventory, and taxes efficiently.
+
+I'm always learning, building, and open to interesting collaborations 🚀
+
+# 💻 Tech Stack:
+
+<!-- Add your technologies here -->
+
+# 📊 GitHub Stats:
+
+<!-- Add your GitHub stats here -->
+
+### ✍️ Random Dev Quote:
+
+<!-- Add your random dev quote here -->
+
+---
