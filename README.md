@@ -13,7 +13,7 @@ Outside of coding, I enjoy **music 🎵**, collaborating with other developers, 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/samuelola-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samuelola396@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samuelola.dev@gmail.com)
 
 ## 💻 Tech Stack
 
